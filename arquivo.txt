@@ -1,0 +1,11 @@
+Este é um arquivo de teste para o projeto de sockets.
+
+Conteúdo do arquivo:
+- Linha 1: Demonstração de envio via socket
+- Linha 2: Mostrando que novas linhas são preservadas
+- Linha 3: A transferência deve manter a formatação
+
+Caracteres especiais: !@#$%&*()
+Números: 1234567890
+
+Última linha do arquivo.
